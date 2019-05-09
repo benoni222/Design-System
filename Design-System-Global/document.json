@@ -3,8 +3,195 @@
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3333333333333333,
+          "green": 0.3333333333333333,
+          "red": 0.3333333333333333
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1832590955415963,
+          "green": 0.07751699469880864,
+          "red": 0.4080332880434783
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5461390398550725,
+          "green": 0.2560212515091357,
+          "red": 0.06850673207633276
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2723998562574004,
+          "green": 0.3445425724637681,
+          "red": 0.0596449937277693
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.03255824617970409,
+          "green": 0.6846564951007986,
+          "red": 0.7759567481884058
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.1333333333333333,
+          "red": 0.1333333333333333
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.1333333333333333,
+          "red": 0.1333333333333333
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2666666666666667,
+          "green": 0.2666666666666667,
+          "red": 0.2666666666666667
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9016644021739131,
+          "green": 0.9016644021739131,
+          "red": 0.9016644021739131
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9521625905797102,
+          "green": 0.9521625905797102,
+          "red": 0.9521625905797102
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      }
     ],
     "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3333333333333333,
+        "green": 0.3333333333333333,
+        "red": 0.3333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1832590955415963,
+        "green": 0.07751699469880864,
+        "red": 0.4080332880434783
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5461390398550725,
+        "green": 0.2560212515091357,
+        "red": 0.06850673207633276
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2723998562574004,
+        "green": 0.3445425724637681,
+        "red": 0.0596449937277693
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.03255824617970409,
+        "green": 0.6846564951007986,
+        "red": 0.7759567481884058
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1333333333333333,
+        "green": 0.1333333333333333,
+        "red": 0.1333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1333333333333333,
+        "green": 0.1333333333333333,
+        "red": 0.1333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2666666666666667,
+        "green": 0.2666666666666667,
+        "red": 0.2666666666666667
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9016644021739131,
+        "green": 0.9016644021739131,
+        "red": 0.9016644021739131
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9521625905797102,
+        "green": 0.9521625905797102,
+        "red": 0.9521625905797102
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
     ],
     "gradientAssets": [
     ],
@@ -37,6 +224,7 @@
     "version": 116
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ]
 }
