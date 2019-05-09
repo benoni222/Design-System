@@ -42,7 +42,7 @@
     "do_objectID": "9183E022-B85A-4DEC-81EB-BD476DFAB230"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -94,10 +94,6 @@
     {
       "class": "rectangle",
       "id": "D739A68A-7FE2-4B58-AE44-B120953D7311"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E1C1D348-59A4-4FE3-9F1D-467701A0AEAC"
     },
     {
       "class": "group",
