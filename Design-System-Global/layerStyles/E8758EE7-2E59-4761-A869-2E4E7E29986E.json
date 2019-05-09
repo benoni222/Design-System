@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "E8758EE7-2E59-4761-A869-2E4E7E29986E",
+  "name": "styles/linesBlack/1px/inside",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1333333333333333,
+          "green": 0.1333333333333333,
+          "red": 0.1333333333333333
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
