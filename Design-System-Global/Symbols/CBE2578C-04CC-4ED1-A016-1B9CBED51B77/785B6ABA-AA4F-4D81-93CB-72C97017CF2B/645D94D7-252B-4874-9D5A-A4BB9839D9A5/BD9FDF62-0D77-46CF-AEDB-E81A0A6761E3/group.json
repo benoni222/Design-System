@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD9FDF62-0D77-46CF-AEDB-E81A0A6761E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 258,
+    "width": 687,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "39CFDC4D-6F83-42A9-B3BB-7BF5B94FEE7C"
+    },
+    {
+      "class": "text",
+      "id": "5BC59D7D-9C4A-4720-913D-C9EBEE26B8E6"
+    },
+    {
+      "class": "text",
+      "id": "3F034874-FE49-4C7D-A9F7-7B6D47FC05BA"
+    },
+    {
+      "class": "text",
+      "id": "130C1535-6A29-40A4-B58B-76B35D27DB8E"
+    },
+    {
+      "class": "text",
+      "id": "1661E11B-066D-469E-A10A-5D9BD98AB85D"
+    },
+    {
+      "class": "text",
+      "id": "3F7D0222-B19D-4C0D-8977-A8A122DA370A"
+    },
+    {
+      "class": "text",
+      "id": "76111345-1F45-4E9F-9E74-2A9CF9CF039C"
+    },
+    {
+      "class": "text",
+      "id": "CA3C83C5-8A8A-4870-9F8C-6334C0C3387D"
+    },
+    {
+      "class": "text",
+      "id": "C441766F-9F9B-444E-BC3B-AD4B59783CE0"
+    },
+    {
+      "class": "text",
+      "id": "A0E37F01-209E-49D2-B560-1C5E800743C3"
+    },
+    {
+      "class": "text",
+      "id": "69CA30FD-C706-4123-BD3E-D1400A0363A6"
+    },
+    {
+      "class": "text",
+      "id": "83CFE1E4-02BE-48EC-BA91-7BAAF9006D34"
+    },
+    {
+      "class": "text",
+      "id": "2EAB9E8D-81AA-4026-B7BD-578C591CFF57"
+    },
+    {
+      "class": "text",
+      "id": "AE66C218-32EA-4C2B-AB5A-76D04933F23B"
+    },
+    {
+      "class": "text",
+      "id": "3B71AC5D-300C-499F-9133-AFACE71B21F0"
+    }
+  ],
+  "name": "Headings",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

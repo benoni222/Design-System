@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "68ACD0B9-2D08-4D04-A76F-775673C9D824",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 258,
+    "width": 687,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4CDF5A63-7705-4FAE-9A5A-C08DCDBA3925"
+    },
+    {
+      "class": "text",
+      "id": "B2E1EE52-1691-4FC0-8D36-056F81ECAA75"
+    },
+    {
+      "class": "text",
+      "id": "0DF8AD4F-309D-483A-82E1-FFEA39AE9C98"
+    },
+    {
+      "class": "text",
+      "id": "054849EB-B6DA-4FFD-863A-E7BAA3965CCA"
+    },
+    {
+      "class": "text",
+      "id": "6A468104-B490-4010-B42A-5798ACD772F9"
+    },
+    {
+      "class": "text",
+      "id": "2C74624E-130D-42A7-A3C4-B3DE7100DA78"
+    },
+    {
+      "class": "text",
+      "id": "851EED8D-D247-4E81-9136-DAC65A7072B0"
+    },
+    {
+      "class": "text",
+      "id": "C012AD57-EECC-46CB-8596-C339F7169D1B"
+    },
+    {
+      "class": "text",
+      "id": "03E20687-B723-4DA2-82B2-68D3A06382E2"
+    },
+    {
+      "class": "text",
+      "id": "A69E6FFA-94FC-40AA-B7A1-316109A47628"
+    },
+    {
+      "class": "text",
+      "id": "6777C8C5-6E9C-4E36-AE5E-B1858FE30E0D"
+    },
+    {
+      "class": "text",
+      "id": "B3D8280F-C667-42BD-8C97-4739270712F2"
+    },
+    {
+      "class": "text",
+      "id": "4D1C35BB-701D-4E50-9B1C-691CCBF9B0F2"
+    },
+    {
+      "class": "text",
+      "id": "43A241C0-141B-40CF-B73F-213601B25A8C"
+    },
+    {
+      "class": "text",
+      "id": "3C4E0A4F-901C-4F64-A8F8-051E982E1A82"
+    }
+  ],
+  "name": "Headings",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

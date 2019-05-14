@@ -98,6 +98,14 @@
     {
       "class": "symbolMaster",
       "id": "64632998-C78A-4342-9A01-736722E78947"
+    },
+    {
+      "class": "artboard",
+      "id": "CBE2578C-04CC-4ED1-A016-1B9CBED51B77"
+    },
+    {
+      "class": "artboard",
+      "id": "C0E97E3E-A861-4C63-930B-284EF98D1D3B"
     }
   ],
   "name": "Symbols",
@@ -117,6 +125,7 @@
     "_class": "rulerData",
     "base": -520,
     "guides": [
+      15
     ]
   }
 }

@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "10EA2DA7-52E2-4BD0-9E7D-994CBCF95DD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 258,
+    "width": 687,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1B6EF977-CFF7-4F0B-95DD-20C858418F4E"
+    },
+    {
+      "class": "text",
+      "id": "0BE3350A-5BC4-4944-A159-29485D13B080"
+    },
+    {
+      "class": "text",
+      "id": "67F0B414-F2E5-4D40-9C3F-9D8E66356193"
+    },
+    {
+      "class": "text",
+      "id": "66F76167-C29E-4CDB-A2D0-074D010B1F55"
+    },
+    {
+      "class": "text",
+      "id": "A7581556-DB56-4BA0-BBA9-AE2EB81EDD3D"
+    },
+    {
+      "class": "text",
+      "id": "0BC05725-BDD4-46CB-A3B5-22485E062939"
+    },
+    {
+      "class": "text",
+      "id": "B4B3DAA5-9782-45AD-9164-31AE5486DFD1"
+    },
+    {
+      "class": "text",
+      "id": "1FD99A65-EF0E-4B38-AEEF-42C798EF0CC2"
+    },
+    {
+      "class": "text",
+      "id": "75352F35-E180-41FA-90E4-CC83359F788E"
+    },
+    {
+      "class": "text",
+      "id": "44229A06-71B4-46C1-9FC4-248EFAE732C8"
+    },
+    {
+      "class": "text",
+      "id": "C1F77B58-DFE4-4758-BA4A-335D8072819F"
+    },
+    {
+      "class": "text",
+      "id": "BF83324A-ECB3-415F-858B-24CE003F83CE"
+    },
+    {
+      "class": "text",
+      "id": "7EA13266-CB12-4C32-8404-527F27876A68"
+    },
+    {
+      "class": "text",
+      "id": "F6F9DDAE-A470-44A9-AFC0-59302036453D"
+    },
+    {
+      "class": "text",
+      "id": "5ED3E068-17AB-481E-9471-A18BA1F2054D"
+    }
+  ],
+  "name": "Headings",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

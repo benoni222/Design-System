@@ -96,6 +96,10 @@
       "id": "D739A68A-7FE2-4B58-AE44-B120953D7311"
     },
     {
+      "class": "symbolInstance",
+      "id": "E1C1D348-59A4-4FE3-9F1D-467701A0AEAC"
+    },
+    {
       "class": "group",
       "id": "9BAF8873-D120-42D4-899D-816D2CCB373B"
     },
@@ -147,6 +151,7 @@
     "base": 0,
     "do_objectID": "1BAF81A1-4348-41A8-8F9E-E16553603924",
     "guides": [
+      -461
     ]
   }
 }

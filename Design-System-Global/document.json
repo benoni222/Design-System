@@ -112,6 +112,26 @@
           "green": 1,
           "red": 1
         }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.314484551956646,
+          "green": 0.314484551956646,
+          "red": 0.9182235054347826
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3512576219512196,
+          "green": 1,
+          "red": 0.4874283068541597
+        }
       }
     ],
     "colors": [
@@ -191,6 +211,20 @@
         "blue": 1,
         "green": 1,
         "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.314484551956646,
+        "green": 0.314484551956646,
+        "red": 0.9182235054347826
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3512576219512196,
+        "green": 1,
+        "red": 0.4874283068541597
       }
     ],
     "gradientAssets": [
@@ -206,11 +240,7 @@
     ]
   },
   "colorSpace": 0,
-<<<<<<< HEAD
-  "do_objectID": "51508990-7255-11e9-90a5-d57b6230ca93",
-=======
   "do_objectID": "D0D7A4CB-9F53-44FA-BEB3-C7D2A629E96C",
->>>>>>> master
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -223,9 +253,9 @@
     ]
   },
   "meta": {
-    "appVersion": "53.2",
-    "build": 72643,
-    "version": 116
+    "appVersion": "54.1",
+    "build": 76490,
+    "version": 118
   },
   "pages": [
     "Page 1",
